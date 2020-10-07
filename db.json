@@ -1,5 +1,8 @@
 {
-  "profile": {
+  "identifier": {
+    "name": "typicode"
+  },
+   "identityType": {
     "name": "typicode"
   }
 }
